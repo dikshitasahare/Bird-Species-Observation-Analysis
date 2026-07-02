@@ -1,4 +1,5 @@
 🐦 Bird Observation Analytics Dashboard | Power BI
+
 📖 Project Overview
 
 The Bird Observation Analytics Dashboard is an interactive Business Intelligence (BI) solution developed using Microsoft Power BI to transform raw bird observation data into meaningful, data-driven insights. This project demonstrates how data visualization and analytics can be used to monitor bird populations, analyze species diversity, and identify observation trends across different locations and time periods.
@@ -25,6 +26,8 @@ Data Cleaning & Transformation
 Microsoft Excel
 Business Intelligence (BI)
 Interactive Data Visualization
+
+
 📊 Dashboard Insights
 
 The dashboard provides valuable insights, including:
